@@ -1,0 +1,2 @@
+New transactions detected. Time: 2024-10-10 20:18:52.415586
+Processing files:  ['.DS_Store', 'Icon\r', 'to_score_2024_06_13_12_15_28.csv']
